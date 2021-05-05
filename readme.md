@@ -1,7 +1,1 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <iframe src="https://public.tableau.com/views/gif_16182940609810/sheet0_1?:embed=yes" width="1024" height="768"></iframe>
-  </body>
-</html>
+<iframe src="https://public.tableau.com/views/gif_16182940609810/sheet0_1?:embed=yes&:showVizHome=no" width="1082" height="717"></iframe>
